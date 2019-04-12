@@ -1,0 +1,10 @@
+D:\Programs\CrabComment\CrabComment\bin\Debug\CrabComment.exe.config
+D:\Programs\CrabComment\CrabComment\bin\Debug\CrabComment.exe
+D:\Programs\CrabComment\CrabComment\bin\Debug\CrabComment.pdb
+D:\Programs\CrabComment\CrabComment\obj\Debug\CrabComment.csprojAssemblyReference.cache
+D:\Programs\CrabComment\CrabComment\obj\Debug\CrabComment.Form1.resources
+D:\Programs\CrabComment\CrabComment\obj\Debug\CrabComment.Properties.Resources.resources
+D:\Programs\CrabComment\CrabComment\obj\Debug\CrabComment.csproj.GenerateResource.cache
+D:\Programs\CrabComment\CrabComment\obj\Debug\CrabComment.csproj.CoreCompileInputs.cache
+D:\Programs\CrabComment\CrabComment\obj\Debug\CrabComment.exe
+D:\Programs\CrabComment\CrabComment\obj\Debug\CrabComment.pdb
